@@ -23,5 +23,5 @@ Android Developer with experience in Kotlin, MVVM, Jetpack, Hilt, Retrofit, Room
 
 ## Contact
 Email: saurabhkaipurkar1204im@gmail.com
-LinkedIn: <your-linkedin>
+LinkedIn: https://www.linkedin.com/in/saurabh-kaipurkar/
 GitHub: https://github.com/saurabhkaipurkar
